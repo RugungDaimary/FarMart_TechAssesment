@@ -1,0 +1,4 @@
+.DS_Store
+*.log
+src/test_logs.log
+output/
