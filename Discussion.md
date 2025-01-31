@@ -1,6 +1,15 @@
 ## Solution
 
 **Please review the solution provided in the `src` directory.** The code is designed to efficiently parse log files and extract entries for a specified date using Node.js streams and the `readline` module. Follow the steps outlined in the `DISCUSSION.md` file to run the solution and verify the output.
+
+## Folder Structure
+
+![Folder Structure](src/folder_structure.png)
+## Output ScreenShot
+
+![Folder Structure](src/output_ss.png)
+
+
 ### 1. Manual Log Parsing
 
 - **Approach:** Manually read the log file and extract entries for the specified date.
@@ -31,7 +40,6 @@ Ensure you have the correct URL to download the log file. Run the following comm
 
 ```sh
 curl -L -o src/test_logs.log "https://limewire.com/d/0c95044f-d489-4101-bf1a-ca48839eea86#cVKnm0pKXpN6pjsDwav4f5MNssotyy0C8Xvaor1bA5U"
-```
 
 ### 2. Navigate to the `src` Directory
 
