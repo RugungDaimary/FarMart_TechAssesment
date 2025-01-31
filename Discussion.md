@@ -1,5 +1,6 @@
 ## Solution
 
+**Please review the solution provided in the `src` directory.** The code is designed to efficiently parse log files and extract entries for a specified date using Node.js streams and the `readline` module. Follow the steps outlined in the `DISCUSSION.md` file to run the solution and verify the output.
 ### 1. Manual Log Parsing
 
 - **Approach:** Manually read the log file and extract entries for the specified date.
